@@ -1,6 +1,6 @@
 /*
-    Runtime : 107ms    (Beats 9.77%)
-    Memory  : 14.06MB  (Beats 74.48%)
+    Runtime : 99ms    (Beats 11.57%)
+    Memory  : 14.02MB  (Beats 74.48%)
 */
 
 class Solution {
